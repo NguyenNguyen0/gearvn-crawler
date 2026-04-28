@@ -1,0 +1,19 @@
+public class Brand {
+
+    @Id
+    private String id;
+
+    private String name;
+
+    private String slug;
+
+    private String logoUrl;
+
+    private boolean active;
+
+    @CreatedDate
+    private Instant createdAt;
+
+    @LastModifiedDate
+    private Instant updatedAt;
+}

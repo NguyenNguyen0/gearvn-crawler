@@ -1,0 +1,25 @@
+public class Category {
+
+    @Id
+    private String id;
+
+    private String name;
+
+    private String slug;
+
+    private String description;
+
+    private String parentId;
+
+    private String imageUrl;
+
+    private int sortOrder;
+
+    private boolean active;
+
+    @CreatedDate
+    private Instant createdAt;
+
+    @LastModifiedDate
+    private Instant updatedAt;
+}

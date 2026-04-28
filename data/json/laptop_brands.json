@@ -1,0 +1,58 @@
+[
+    {
+        "id": "asus",
+        "name": "ASUS",
+        "slug": "asus",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "acer",
+        "name": "ACER",
+        "slug": "acer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "msi",
+        "name": "MSI",
+        "slug": "msi",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "lenovo",
+        "name": "LENOVO",
+        "slug": "lenovo",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "dell",
+        "name": "DELL",
+        "slug": "dell",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "hp",
+        "name": "HP",
+        "slug": "hp",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "lg",
+        "name": "LG",
+        "slug": "lg",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "gigabyte",
+        "name": "GIGABYTE",
+        "slug": "gigabyte",
+        "logoUrl": null,
+        "active": true
+    }
+]

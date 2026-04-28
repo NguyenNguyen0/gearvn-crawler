@@ -1,0 +1,36 @@
+public class Product {
+
+    @Id
+    private String id;
+
+    @TextIndexed(weight = 5)
+    private String name;
+
+    private String slug;
+
+    @TextIndexed(weight = 2)
+    private String description;
+
+    private BigDecimal price;
+
+    private BigDecimal compareAtPrice;
+
+    @TextIndexed(weight = 3)
+    private String sku;
+
+    private String categoryId;
+
+    private String brandId;
+
+    private List<String> images;
+
+    private Map<String, String> attributes;
+
+    private boolean active;
+
+    @CreatedDate
+    private Instant createdAt;
+
+    @LastModifiedDate
+    private Instant updatedAt;
+}

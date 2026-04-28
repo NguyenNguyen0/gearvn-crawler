@@ -1,0 +1,58 @@
+[
+    {
+        "id": "corsair",
+        "name": "Corsair",
+        "slug": "corsair",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "warrior",
+        "name": "Warrior",
+        "slug": "warrior",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "e-dra",
+        "name": "E-Dra",
+        "slug": "e-dra",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "dxracer",
+        "name": "DXRacer",
+        "slug": "dxracer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "cougar",
+        "name": "Cougar",
+        "slug": "cougar",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "akracing",
+        "name": "AKRacing",
+        "slug": "akracing",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "razer",
+        "name": "Razer",
+        "slug": "razer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "sihoo",
+        "name": "Sihoo",
+        "slug": "sihoo",
+        "logoUrl": null,
+        "active": true
+    }
+]

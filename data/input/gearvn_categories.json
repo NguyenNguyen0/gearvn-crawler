@@ -1,0 +1,396 @@
+[
+    {
+        "Laptop": [
+            {
+                "brands": [
+                    {
+                        "ASUS": "https://gearvn.com/collections/laptop-asus-hoc-tap-va-lam-viec"
+                    },
+                    {
+                        "ACER": "https://gearvn.com/collections/laptop-acer-hoc-tap-va-lam-viec"
+                    },
+                    {
+                        "MSI": "https://gearvn.com/collections/laptop-msi-hoc-tap-va-lam-viec"
+                    },
+                    {
+                        "LENOVO": "https://gearvn.com/collections/laptop-lenovo-hoc-tap-va-lam-viec"
+                    },
+                    {
+                        "DELL": "https://gearvn.com/collections/laptop-dell-hoc-tap-va-lam-viec"
+                    },
+                    {
+                        "HP Pavilion": "https://gearvn.com/collections/laptop-hp-pavilion"
+                    },
+                    {
+                        "LG Gram": "https://gearvn.com/collections/laptop-lg-gram"
+                    }
+                ]
+            }
+        ],
+        "Gaming Laptop": [
+            {
+                "brands": [
+                    {
+                        "ACER / Predator": "https://gearvn.com/collections/laptop-gaming-acer"
+                    },
+                    {
+                        "ASUS / ROG": "https://gearvn.com/collections/laptop-gaming-asus"
+                    },
+                    {
+                        "MSI": "https://gearvn.com/collections/laptop-msi-gaming"
+                    },
+                    {
+                        "LENOVO": "https://gearvn.com/collections/laptop-gaming-lenovo"
+                    },
+                    {
+                        "DELL": "https://gearvn.com/collections/laptop-gaming-dell"
+                    },
+                    {
+                        "GIGABYTE": "https://gearvn.com/collections/laptop-gaming-gigabyte"
+                    },
+                    {
+                        "HP": "https://gearvn.com/collections/laptop-gaming-hp"
+                    }
+                ]
+            }
+        ],
+        "Case - Power Supply - Cooling": [
+            {
+                "PC Case": [
+                    {
+                        "ASUS": "https://gearvn.com/collections/case-asus"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/case-corsair"
+                    },
+                    {
+                        "Lian Li": "https://gearvn.com/collections/case-lian-li"
+                    },
+                    {
+                        "NZXT": "https://gearvn.com/collections/case-nzxt"
+                    },
+                    {
+                        "Jonsbo": "https://gearvn.com/collections/vo-may-tinh-jonsbo"
+                    }
+                ]
+            },
+            {
+                "Power Supply (PSU)": [
+                    {
+                        "ASUS": "https://gearvn.com/collections/nguon-may-tinh-asus"
+                    },
+                    {
+                        "DeepCool": "https://gearvn.com/collections/psu-nguon-may-tinh?hang=deepcool"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/nguon-corsair"
+                    },
+                    {
+                        "NZXT": "https://gearvn.com/collections/nguon-may-tinh-nzxt"
+                    },
+                    {
+                        "MSI": "https://gearvn.com/collections/psu-nguon-may-tinh?hang=msi"
+                    }
+                ]
+            }
+        ],
+        "RAM - SSD - HDD": [
+            {
+                "RAM": [
+                    {
+                        "Corsair": "https://gearvn.com/collections/ram-pc?hang=corsair"
+                    },
+                    {
+                        "Kingston": "https://gearvn.com/collections/ram-pc?hang=kingston"
+                    },
+                    {
+                        "G.Skill": "https://gearvn.com/collections/ram-pc?hang=gskill"
+                    },
+                    {
+                        "PNY": "https://gearvn.com/collections/ram-pc?hang=pny"
+                    }
+                ]
+            },
+            {
+                "SSD": [
+                    {
+                        "Samsung": "https://gearvn.com/collections/ssd-samsung"
+                    },
+                    {
+                        "Western Digital": "https://gearvn.com/collections/ssd-wd"
+                    },
+                    {
+                        "Kingston": "https://gearvn.com/collections/kingston-ssd"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/ssd-o-cung-the-ran?hang=corsair"
+                    },
+                    {
+                        "PNY": "https://gearvn.com/collections/ssd-pny"
+                    }
+                ]
+            },
+            {
+                "HDD": [
+                    {
+                        "Western Digital": "https://gearvn.com/collections/hdd-wd"
+                    },
+                    {
+                        "Seagate": "https://gearvn.com/collections/hdd-seagate"
+                    },
+                    {
+                        "Toshiba": "https://gearvn.com/collections/hdd-o-cung-pc?hang=toshiba"
+                    }
+                ]
+            }
+        ],
+        "Speakers - Microphone - Webcam": [
+            {
+                "Speakers": [
+                    {
+                        "Edifier": "https://gearvn.com/collections/loa-edifier"
+                    },
+                    {
+                        "Razer": "https://gearvn.com/collections/loa?hang=razer"
+                    },
+                    {
+                        "Logitech": "https://gearvn.com/collections/loa?hang=logitech"
+                    },
+                    {
+                        "SoundMax": "https://gearvn.com/collections/loa?hang=soundmax"
+                    }
+                ]
+            },
+            {
+                "Microphone": [
+                    {
+                        "HyperX": "https://gearvn.com/collections/microphone?hang=hyperx"
+                    }
+                ]
+            }
+        ],
+        "Monitor": [
+            {
+                "brands": [
+                    {
+                        "LG": "https://gearvn.com/collections/monitor-lg"
+                    },
+                    {
+                        "ASUS": "https://gearvn.com/collections/man-hinh-asus"
+                    },
+                    {
+                        "ViewSonic": "https://gearvn.com/collections/man-hinh-viewsonic"
+                    },
+                    {
+                        "Dell": "https://gearvn.com/collections/man-hinh-dell"
+                    },
+                    {
+                        "Gigabyte": "https://gearvn.com/collections/man-hinh-gigabyte"
+                    },
+                    {
+                        "AOC": "https://gearvn.com/collections/man-hinh-aoc"
+                    },
+                    {
+                        "Acer": "https://gearvn.com/collections/man-hinh-acer"
+                    },
+                    {
+                        "HKC": "https://gearvn.com/collections/hkc"
+                    },
+                    {
+                        "MSI": "https://gearvn.com/collections/man-hinh-msi"
+                    },
+                    {
+                        "Samsung": "https://gearvn.com/collections/man-hinh-samsung"
+                    },
+                    {
+                        "Philips": "https://gearvn.com/collections/man-hinh-philips"
+                    },
+                    {
+                        "E-Dra": "https://gearvn.com/collections/man-hinh-e-dra/"
+                    },
+                    {
+                        "VSP": "https://gearvn.com/collections/man-hinh-vsp"
+                    }
+                ]
+            }
+        ],
+        "Keyboard": [
+            {
+                "brands": [
+                    {
+                        "AKKO": "https://gearvn.com/collections/ban-phim-akko"
+                    },
+                    {
+                        "AULA": "https://gearvn.com/collections/ban-phim-aula"
+                    },
+                    {
+                        "Dare-U": "https://gearvn.com/collections/ban-phim-dare-u"
+                    },
+                    {
+                        "Durgod": "https://gearvn.com/collections/ban-phim-ikbc-durgod"
+                    },
+                    {
+                        "Leobog": "https://gearvn.com/collections/ban-phim-leobog"
+                    },
+                    {
+                        "Keychron": "https://gearvn.com/collections/ban-phim-keychron"
+                    },
+                    {
+                        "FL-Esports": "https://gearvn.com/collections/ban-phim-co-fl-esports"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/ban-phim-choi-game-corsair"
+                    },
+                    {
+                        "E-Dra": "https://gearvn.com/collections/ban-phim-e-dra"
+                    },
+                    {
+                        "Cidoo": "https://gearvn.com/collections/ban-phim-cidoo"
+                    },
+                    {
+                        "Machenike": "https://gearvn.com/collections/ban-phim-machenike"
+                    },
+                    {
+                        "ASUS": "https://gearvn.com/collections/ban-phim-asus"
+                    },
+                    {
+                        "Logitech": "https://gearvn.com/collections/ban-phim-logitech"
+                    },
+                    {
+                        "Razer": "https://gearvn.com/collections/ban-phim-choi-game-razer"
+                    },
+                    {
+                        "Leopold": "https://gearvn.com/collections/ban-phim-leopold"
+                    },
+                    {
+                        "SteelSeries": "https://gearvn.com/collections/ban-phim-steelseries"
+                    },
+                    {
+                        "Rapoo": "https://gearvn.com/collections/ban-phim-rapoo"
+                    },
+                    {
+                        "VGN": "https://gearvn.com/collections/ban-phim-vgn"
+                    },
+                    {
+                        "MadLions": "https://gearvn.com/collections/ban-phim-madlions"
+                    },
+                    {
+                        "Skyloong": "https://gearvn.com/collections/ban-phim-skyloong"
+                    }
+                ]
+            }
+        ],
+        "Mouse": [
+            {
+                "brands": [
+                    {
+                        "Logitech": "https://gearvn.com/collections/chuot-logitech"
+                    },
+                    {
+                        "Razer": "https://gearvn.com/collections/chuot-razer"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/chuot-corsair"
+                    },
+                    {
+                        "Microsoft": "https://gearvn.com/collections/chuot-microsoft"
+                    },
+                    {
+                        "Dare-U": "https://gearvn.com/collections/chuot-dare-u"
+                    },
+                    {
+                        "ASUS": "https://gearvn.com/collections/chuot-asus"
+                    },
+                    {
+                        "SteelSeries": "https://gearvn.com/collections/chuot-steelseries"
+                    },
+                    {
+                        "Glorious": "https://gearvn.com/collections/chuot-glorious"
+                    },
+                    {
+                        "Rapoo": "https://gearvn.com/collections/chuot-rapoo"
+                    },
+                    {
+                        "HyperX": "https://gearvn.com/collections/chuot-hyperx"
+                    },
+                    {
+                        "ATK": "https://gearvn.com/collections/chuot-atk"
+                    }
+                ]
+            }
+        ],
+        "Headphones": [
+            {
+                "brands": [
+                    {
+                        "ASUS": "https://gearvn.com/collections/tai-nghe-asus"
+                    },
+                    {
+                        "HyperX": "https://gearvn.com/collections/tai-nghe-hyperx"
+                    },
+                    {
+                        "Corsair": "https://gearvn.com/collections/tai-nghe-corsair"
+                    },
+                    {
+                        "Razer": "https://gearvn.com/collections/tai-nghe-razer"
+                    },
+                    {
+                        "ONIKUMA": "https://gearvn.com/collections/tai-nghe-onikuma"
+                    },
+                    {
+                        "SteelSeries": "https://gearvn.com/collections/tai-nghe-steelseries"
+                    },
+                    {
+                        "Rapoo": "https://gearvn.com/collections/tai-nghe-rapoo"
+                    },
+                    {
+                        "Logitech": "https://gearvn.com/collections/tai-nghe-logitech"
+                    },
+                    {
+                        "Edifier": "https://gearvn.com/collections/tai-nghe-edifier"
+                    }
+                ]
+            }
+        ],
+        "Chair": [
+            {
+                "Gaming Chair": [
+                    {
+                        "Corsair": "https://gearvn.com/collections/ghe-corsair"
+                    },
+                    {
+                        "Warrior": "https://gearvn.com/collections/ghe-warrior"
+                    },
+                    {
+                        "E-DRA": "https://gearvn.com/collections/ghe-e-dra"
+                    },
+                    {
+                        "DXRacer": "https://gearvn.com/collections/ghe-dxracer"
+                    },
+                    {
+                        "Cougar": "https://gearvn.com/collections/cougar-chair"
+                    },
+                    {
+                        "AKRacing": "https://gearvn.com/collections/akracing"
+                    },
+                    {
+                        "Razer": "https://gearvn.com/collections/ghe-gaming-razer"
+                    }
+                ]
+            },
+            {
+                "Ergonomic Chair": [
+                    {
+                        "Warrior": "https://gearvn.com/collections/ghe-cong-thai-hoc-warrior/"
+                    },
+                    {
+                        "Sihoo": "https://gearvn.com/collections/ghe-sihoo"
+                    },
+                    {
+                        "E-Dra": "https://gearvn.com/collections/ghe-e-dra"
+                    }
+                ]
+            }
+        ]
+    }
+]

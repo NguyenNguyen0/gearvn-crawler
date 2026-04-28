@@ -1,0 +1,93 @@
+[
+    {
+        "id": "lg",
+        "name": "LG",
+        "slug": "lg",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "asus",
+        "name": "ASUS",
+        "slug": "asus",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "viewsonic",
+        "name": "ViewSonic",
+        "slug": "viewsonic",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "dell",
+        "name": "Dell",
+        "slug": "dell",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "gigabyte",
+        "name": "Gigabyte",
+        "slug": "gigabyte",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "aoc",
+        "name": "AOC",
+        "slug": "aoc",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "acer",
+        "name": "Acer",
+        "slug": "acer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "hkc",
+        "name": "HKC",
+        "slug": "hkc",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "msi",
+        "name": "MSI",
+        "slug": "msi",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "samsung",
+        "name": "Samsung",
+        "slug": "samsung",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "philips",
+        "name": "Philips",
+        "slug": "philips",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "e-dra",
+        "name": "E-Dra",
+        "slug": "e-dra",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "vsp",
+        "name": "VSP",
+        "slug": "vsp",
+        "logoUrl": null,
+        "active": true
+    }
+]

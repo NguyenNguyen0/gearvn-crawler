@@ -1,0 +1,58 @@
+[
+    {
+        "id": "corsair",
+        "name": "Corsair",
+        "slug": "corsair",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "kingston",
+        "name": "Kingston",
+        "slug": "kingston",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "g-skill",
+        "name": "G.Skill",
+        "slug": "g-skill",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "pny",
+        "name": "PNY",
+        "slug": "pny",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "samsung",
+        "name": "Samsung",
+        "slug": "samsung",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "western-digital",
+        "name": "Western Digital",
+        "slug": "western-digital",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "seagate",
+        "name": "Seagate",
+        "slug": "seagate",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "toshiba",
+        "name": "Toshiba",
+        "slug": "toshiba",
+        "logoUrl": null,
+        "active": true
+    }
+]

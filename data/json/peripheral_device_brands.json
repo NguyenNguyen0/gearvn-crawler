@@ -1,0 +1,177 @@
+[
+    {
+        "id": "akko",
+        "name": "AKKO",
+        "slug": "akko",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "aula",
+        "name": "AULA",
+        "slug": "aula",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "dare-u",
+        "name": "Dare-U",
+        "slug": "dare-u",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "durgod",
+        "name": "Durgod",
+        "slug": "durgod",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "leobog",
+        "name": "Leobog",
+        "slug": "leobog",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "keychron",
+        "name": "Keychron",
+        "slug": "keychron",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "fl-esports",
+        "name": "FL Esports",
+        "slug": "fl-esports",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "corsair",
+        "name": "Corsair",
+        "slug": "corsair",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "e-dra",
+        "name": "E-Dra",
+        "slug": "e-dra",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "cidoo",
+        "name": "Cidoo",
+        "slug": "cidoo",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "machenike",
+        "name": "Machenike",
+        "slug": "machenike",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "logitech",
+        "name": "Logitech",
+        "slug": "logitech",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "razer",
+        "name": "Razer",
+        "slug": "razer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "leopold",
+        "name": "Leopold",
+        "slug": "leopold",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "steelseries",
+        "name": "SteelSeries",
+        "slug": "steelseries",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "rapoo",
+        "name": "Rapoo",
+        "slug": "rapoo",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "vgn",
+        "name": "VGN",
+        "slug": "vgn",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "madlions",
+        "name": "MadLions",
+        "slug": "madlions",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "skyloong",
+        "name": "Skyloong",
+        "slug": "skyloong",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "microsoft",
+        "name": "Microsoft",
+        "slug": "microsoft",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "glorious",
+        "name": "Glorious",
+        "slug": "glorious",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "hyperx",
+        "name": "HyperX",
+        "slug": "hyperx",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "atk",
+        "name": "ATK",
+        "slug": "atk",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "onikuma",
+        "name": "ONIKUMA",
+        "slug": "onikuma",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "edifier",
+        "name": "Edifier",
+        "slug": "edifier",
+        "logoUrl": null,
+        "active": true
+    }
+]

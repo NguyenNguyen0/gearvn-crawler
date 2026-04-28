@@ -1,0 +1,37 @@
+[
+    {
+        "id": "edifier",
+        "name": "Edifier",
+        "slug": "edifier",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "razer",
+        "name": "Razer",
+        "slug": "razer",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "logitech",
+        "name": "Logitech",
+        "slug": "logitech",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "soundmax",
+        "name": "SoundMax",
+        "slug": "soundmax",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "hyperx",
+        "name": "HyperX",
+        "slug": "hyperx",
+        "logoUrl": null,
+        "active": true
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": "corsair",
+        "name": "Corsair",
+        "slug": "corsair",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "lian-li",
+        "name": "Lian Li",
+        "slug": "lian-li",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "nzxt",
+        "name": "NZXT",
+        "slug": "nzxt",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "jonsbo",
+        "name": "Jonsbo",
+        "slug": "jonsbo",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "deepcool",
+        "name": "DeepCool",
+        "slug": "deepcool",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "asus",
+        "name": "ASUS",
+        "slug": "asus",
+        "logoUrl": null,
+        "active": true
+    },
+    {
+        "id": "msi",
+        "name": "MSI",
+        "slug": "msi",
+        "logoUrl": null,
+        "active": true
+    }
+]
