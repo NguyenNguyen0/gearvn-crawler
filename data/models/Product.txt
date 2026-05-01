@@ -9,7 +9,9 @@ public class Product {
     private String slug;
 
     @TextIndexed(weight = 2)
-    private String description;
+    private String description;         // plain text — dùng cho full-text search
+
+    private String descriptionHtml;     // NEW — HTML để render, không index
 
     private BigDecimal price;
 
@@ -18,13 +20,24 @@ public class Product {
     @TextIndexed(weight = 3)
     private String sku;
 
+    private String thumbnail;           // NEW — ảnh đại diện trên listing
+
+    private List<String> images;        // ảnh chi tiết
+
     private String categoryId;
 
     private String brandId;
 
-    private List<String> images;
+    private Map<String, String> specs;  // NEW — thông số kỹ thuật (cpu, ram, ssd…)
 
-    private Map<String, String> attributes;
+    private List<String> tags;          // NEW — new-arrival, hot-deal, gaming…
+
+    private Map<String, String> attributes;  // thuộc tính tùy chọn khác
+
+    private Map<String, String> metadata;   // NEW — source tracking, không thuộc domain
+                                            // { source: "gearvn",
+                                            //   externalId: "1072890525",
+                                            //   sourceUrl: "https://..." }
 
     private boolean active;
 

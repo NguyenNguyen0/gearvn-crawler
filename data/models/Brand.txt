@@ -7,6 +7,8 @@ public class Brand {
 
     private String slug;
 
+    private String parentBrandId;   // NEW — null nếu là brand gốc
+
     private String logoUrl;
 
     private boolean active;
